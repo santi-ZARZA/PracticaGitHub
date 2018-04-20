@@ -1,0 +1,80 @@
+    1  IONIC SERVE
+    2  ionic serve
+    3  mongo
+    4  mongo
+    5  mongo
+    6  mongo
+    7  bower -v
+    8  ng
+    9  angular-cli
+   10  ng new app
+   11  ng new appasa
+   12  firebase
+   13  typescript
+   14  tsc
+   15  ionic start app sidemenu
+   16  ionic run
+   17  cd app
+   18  ionic run
+   19  ionic run android
+   20  cordova platform add android
+   21  ionic run android
+   22  gulp -v
+   23  grunt
+   24  grunt -v
+   25  grunt-cli -v
+   26  grunt
+   27  karma -v
+   28  node -v
+   29  mongo
+   30  mongod
+   31  MAN
+   32  git clone
+   33  mkdir Ejemplogit
+   34  cd Ejemplogit
+   35  git clone
+   36  git clone https://github.com/santi-ZARZA/PracticaGitHub.git
+   37  ls
+   38  echo "hola github" > saludar.txt
+   39  ls
+   40  git estatus
+   41  git status
+   42  git status
+   43  git commit -m "primer commit local"
+   44  cd PracticaGitHub
+   45  git status
+   46  git add
+   47  git add .
+   48  git commit -m "commint"
+   49  git config user.name "santi-ZARZA"
+   50  git commit -m "commit"
+   51  git config user.email "santi-zarza@hotmail.com
+   52  git config user.name "santi-ZARZA"
+   53  git commit -m "commit"
+   54  git status
+   55  git push
+   56  exit
+   57  cd Ejemplogit
+   58  ls
+   59  cd PracticaGitHub
+   60  git status
+   61  mkdir apuntes
+   62  echo "enunciado" > enunciado.txt
+   63  echo "enunciado" > solucion.txt
+   64  git status
+   65  git add apuntes/
+   66  git status
+   67  git commit -m "commit con apuntes"
+   68  cd apuntes
+   69  echo "algo agregado" >> enunciado.txt 
+   70  echo "algo sobreescrito" > solucion.txt 
+   71  git status
+   72  git commit -a
+   73  git add apuntes
+   74  git add solucion.txt 
+   75  git add enunciado.txt 
+   76  git commit -m "con cambios en los archivos"
+   77  git push
+   78  git push
+   79  git push origin master
+   80  history > historial.txt

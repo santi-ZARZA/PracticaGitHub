@@ -1,0 +1,41 @@
+20 - 4
+27 - 4 archivos y fs(f5)
+4 - 5  repasa
+11 - 5	parcial
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+virtualizacion---->{fidelidad, fiel a lo que yo configuro}
+	      ---->{aislamiento burbuja, completo control sobre el entorno en un ambiente seguro}
+	      ---->{rendimiento}
+
+////////
+ventajas
+////////
+
+ºAhorro de costos en la invercion de maquinaria
+
+ºEspacio sube
+
+ºMas seguridad ante falla de software,si hay algun agravio en lo fisico por problemas de software se puede reparar
+
+
+//////////
+hypervisor
+//////////
+
+es el encargado de manejar el sistema operativo y comunicarse con el hardware 
+
+		------>tipo(1) HARD
+		------>tipo(2) (SISTEMA OPERATIVO) HARD
+
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+
+PRIMER COMANDO GIT
+
+1- git clone "link repositorio": clona lo existente
